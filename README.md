@@ -1,2 +1,3 @@
-# Table_List
-JavaFX project
+# About this Table List project
+
+* **Using JavaFX**
